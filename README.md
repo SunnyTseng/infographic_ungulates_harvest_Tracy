@@ -8,9 +8,9 @@ The paper is entitled "Ungulate occurrence in forest harvest blocks is influence
 
 ## Paper infomation
 
-- [Journal article](./docs_readme/paper.pdf)
+- [Journal article](./docs/paper.pdf)
 
-- [Short note of research outcome](./docs_readme/CP_2023_05_Ungulate-Forestry-QN-v2.pdf)
+- [Short note of research outcome](./docs/CP_2023_05_Ungulate-Forestry-QN-v2.pdf)
 
 
 
@@ -35,9 +35,9 @@ I will be using these two platforms for designing:
 
 Example of my design style: 
 
-![image](docs_readme/Infographic_linear_feature_by_Erin_v3.jpg)
+![image](docs/infographic_linear_feature_by_Erin_v3.jpg)
 
-![image](docs_readme/infographic_predator_prey_Tracy_v2.jpg)
+![image](docs/infographic_predator_prey_Tracy_v2.jpg)
 
 
 ## Expected output
