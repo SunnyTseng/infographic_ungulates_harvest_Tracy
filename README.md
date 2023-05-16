@@ -8,9 +8,9 @@ The paper is entitled "Ungulate occurrence in forest harvest blocks is influence
 
 ## Paper infomation
 
-- [Journal article](./docs/paper.pdf)
+- [Journal article](/docs/paper.pdf)
 
-- [Short note of research outcome](./docs/CP_2023_05_Ungulate-Forestry-QN-v2.pdf)
+- [Short note of research outcome](/docs/CP_2023_05_Ungulate-Forestry-QN-v2.pdf)
 
 
 
