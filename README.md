@@ -15,6 +15,12 @@ The paper is entitled "Ungulate occurrence in forest harvest blocks is influence
 
 ## Product 
 
+### version  (2023.07.11)
+
+Inforgraphic in different formats can be downloaded here: [PDF](docs/infographic_ungulates_harvest_Tracy_v3.pdf), [PNG](docs/infographic_ungulates_harvest_Tracy_v3.png), or [JPG](docs/infographic_ungulates_harvest_Tracy_v3.jpg).
+
+![image](docs/infographic_ungulates_harvest_Tracy_v3.jpg)
+
 ### version 2 (2023.06.29)
 
 Inforgraphic in different formats can be downloaded here: [PDF](docs/infographic_ungulates_harvest_Tracy_v2.pdf), [PNG](docs/infographic_ungulates_harvest_Tracy_v2.png), or [JPG](docs/infographic_ungulates_harvest_Tracy_v2.jpg).
